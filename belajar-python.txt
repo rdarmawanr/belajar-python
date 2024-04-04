@@ -3,5 +3,6 @@ Python tutorial.
   -- Python is a popular programming language (Python adalah bahasa pemrograman yang populer).
   -- Python can be used on a server to create web applications (Python dapat digunakan pada server untuk membuat aplikasi web).
 - Learning by Examples
+  -- With our "Try it Yourself" editor, you can edit Python code and view the result (Dengan editor "Cobalah Sendiri" kami, Anda dapat mengedit kode Python dan melihat hasilnya.).
 - Python File Handling
 - Python Database Handling
