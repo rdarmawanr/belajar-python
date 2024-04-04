@@ -1,7 +1,7 @@
 Python tutorial.
-- Learn Python
-  --Python is a popular programming language.
-  -- Python can be used on a server to create web applications.
+- Learn Python (Belajar Python)
+  -- Python is a popular programming language (Python adalah bahasa pemrograman yang populer).
+  -- Python can be used on a server to create web applications (Python dapat digunakan pada server untuk membuat aplikasi web).
 - Learning by Examples
 - Python File Handling
 - Python Database Handling
